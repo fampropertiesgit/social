@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/social/static/js/main.eacba0eb.chunk.js",
-    "main.js.map": "/social/static/js/main.eacba0eb.chunk.js.map",
-    "runtime~main.js": "/social/static/js/runtime~main.218ebbb3.js",
-    "runtime~main.js.map": "/social/static/js/runtime~main.218ebbb3.js.map",
-    "static/css/2.7cd1367e.chunk.css": "/social/static/css/2.7cd1367e.chunk.css",
-    "static/js/2.369f286f.chunk.js": "/social/static/js/2.369f286f.chunk.js",
-    "static/js/2.369f286f.chunk.js.map": "/social/static/js/2.369f286f.chunk.js.map",
-    "index.html": "/social/index.html",
-    "precache-manifest.beb75bf400a72fdb29822f5925cb12f9.js": "/social/precache-manifest.beb75bf400a72fdb29822f5925cb12f9.js",
-    "service-worker.js": "/social/service-worker.js",
-    "static/css/2.7cd1367e.chunk.css.map": "/social/static/css/2.7cd1367e.chunk.css.map",
-    "static/media/blueprint-icons.css": "/social/static/media/blueprint-icons-20.ba184ac3.ttf"
+    "main.js": "/static/js/main.eacba0eb.chunk.js",
+    "main.js.map": "/static/js/main.eacba0eb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.0977b175.chunk.css": "/static/css/2.0977b175.chunk.css",
+    "static/js/2.fc12e15f.chunk.js": "/static/js/2.fc12e15f.chunk.js",
+    "static/js/2.fc12e15f.chunk.js.map": "/static/js/2.fc12e15f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0172d1b3cce5a601fe9164ea05939fd.js": "/precache-manifest.b0172d1b3cce5a601fe9164ea05939fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0977b175.chunk.css.map": "/static/css/2.0977b175.chunk.css.map",
+    "static/media/blueprint-icons.css": "/static/media/blueprint-icons-20.ba184ac3.ttf"
   }
 }
