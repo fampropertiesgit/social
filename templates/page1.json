@@ -1,0 +1,14 @@
+{
+    "total_pages": 1,
+    "items": [
+      {
+        "json": "polotno.json",
+        "preview": "visit-it-now-new-apartment.png"
+      },
+      {
+        "json": "old-out.json",
+        "preview": "old-out.png"
+      }
+    ]
+  }
+  
