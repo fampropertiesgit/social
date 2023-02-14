@@ -2,12 +2,24 @@
     "total_pages": 1,
     "items": [
       {
+        "json": "house-for-sale.json",
+        "preview": "house-for-sale.png"
+      },
+      {
+        "json": "open-house.json",
+        "preview": "open-house.png"
+      },
+      {
         "json": "polotno.json",
         "preview": "visit-it-now-new-apartment.png"
       },
       {
         "json": "old-out.json",
         "preview": "old-out.png"
+      },
+      {
+        "json": "50-perc.json",
+        "preview": "50-perc.png"
       }
     ]
   }
