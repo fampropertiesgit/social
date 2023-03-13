@@ -10,8 +10,8 @@
         "preview": "feat-listings.png"
       },
       {
-        "json": "yellow.json",
-        "preview": "yellow.png"
+        "json": "yellow-scribble.json",
+        "preview": "yellow-scribble.png"
       },
       {
         "json": "agent-temp.json",
