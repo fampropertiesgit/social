@@ -10,6 +10,10 @@
         "preview": "feat-listings.png"
       },
       {
+        "json": "yellow.json",
+        "preview": "yellow.png"
+      },
+      {
         "json": "agent-temp.json",
         "preview": "agent-temp.jpg"
       },
