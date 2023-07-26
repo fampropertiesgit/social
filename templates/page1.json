@@ -40,6 +40,10 @@
       {
         "json": "old-out.json",
         "preview": "old-out.png"
+      },
+      {
+        "json": "project-posts.json",
+        "preview": "project-posts.png"
       }
     ]
   }
